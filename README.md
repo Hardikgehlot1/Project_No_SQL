@@ -1,2 +1,2 @@
 # nosql-challenge
-This i a NoSQL project
+This is a NoSQL project
